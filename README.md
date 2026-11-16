@@ -1,7 +1,7 @@
 # Hola, soy Cristopher Riveros 👋
 ### Auditor Interno Senior & Especialista en Riesgos TI | Automatización, Datos e IA
 
-Contador Auditor con **más de 10 años de experiencia** evaluando controles internos, seguridad de la información, continuidad del negocio y accesos SAP[cite: 3, 4]. Combino la auditoría tradicional con **analítica de datos, RPA e Inteligencia Artificial** para diseñar modelos de auditoría continua y automatización de procesos orientada a la alta dirección[cite: 3, 4].
+Contador Auditor con **más de 10 años de experiencia** evaluando controles internos, seguridad de la información, continuidad del negocio y accesos SAP[cite: 3, 4]. Combino la auditoría tradicional con **analítica de datos, RPA e Inteligencia Artificial** para diseñar modelos de auditoría continua y automatización de procesos orientada a la alta dirección.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristopher%20Riveros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/criverosramirez)
 [![Ubicación](https://img.shields.io/badge/Santiago-Chile-D52B1E?style=for-the-badge&logo=googlemaps&logoColor=white)]()
@@ -9,9 +9,9 @@ Contador Auditor con **más de 10 años de experiencia** evaluando controles int
 ---
 
 ### 🚀 Foco Actual e Impacto
-- 🔭 **Especialización en curso:** *IA Avanzada para Roles Emergentes* (LangChain, FastAPI, Docker y Bases de Datos Vectoriales)[cite: 3, 4].
-- 🤖 **IA aplicada a Riesgos y Control:** Diseño de agentes de IA para identificación automática de riesgos, evaluación de controles clave y flujos de auditoría[cite: 3, 4].
-- ⚡ **Eficiencia Operativa:** Experiencia reduciendo procesos de auditoría continua en un **97%** (de 40 horas a 1 hora) mediante migración de scripts a Python, SQL y RPA[cite: 3, 4].
+- 🔭 **Especialización en curso:** *IA Avanzada para Roles Emergentes* (LangChain, FastAPI, Docker y Bases de Datos Vectoriales).
+- 🤖 **IA aplicada a Riesgos y Control:** Diseño de agentes de IA para identificación automática de riesgos, evaluación de controles clave y flujos de auditoría.
+- ⚡ **Eficiencia Operativa:** Experiencia reduciendo procesos de auditoría continua en un **97%** (de 40 horas a 1 hora) mediante migración de scripts a Python, SQL y RPA.
 
 ---
 
@@ -34,4 +34,4 @@ Contador Auditor con **más de 10 años de experiencia** evaluando controles int
 ![Jira](https://img.shields.io/badge/Scrum%20%26%20Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 **Auditoría TI, GRC & Marcos Normativos**
-`SAP (Perfiles y Roles)` · `ISO 27001` · `ISO 22301` · `COSO 2013` · `COBIT` · `SOX` · `SSAE16` · `MIIP / IPPF` · `IBM Guardium`[cite: 3, 4]
+`SAP (Perfiles y Roles)` · `ISO 27001` · `ISO 22301` · `COSO 2013` · `COBIT` · `SOX` · `SSAE16` · `MIIP / IPPF` · `IBM Guardium`
